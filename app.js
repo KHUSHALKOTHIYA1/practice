@@ -30,16 +30,16 @@
 // const bob = new employee("bob", 21, "devloper");
 // bob.work();
 
-// class BankAccount {
-//   #balance = 0;
-//   deposite(amount) {
-//     this.#balance += amount;
-//   }
-//   getBalance() {
-//     return this.#balance;
-//   }
-// }
-// const acc = new BankAccount();
-// acc.deposite(100);
-// console.log(acc.getBalance());
+class BankAccount {
+  #balance = 0;
+  deposite(amount) {
+    this.#balance += amount;
+  }
+  getBalance() {
+    return this.#balance;
+  }
+}
+const acc = new BankAccount();
+acc.deposite(100);
+console.log(acc.getBalance());
 
