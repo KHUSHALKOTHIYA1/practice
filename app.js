@@ -1,4 +1,4 @@
-// const person = 
+// const person = {
 //   name: "khushal",
 //   greet() {
 //     console.log(`hello, i'm ${this.name}`);
@@ -55,5 +55,3 @@
 // }
 // const pet = new Dog();
 // pet.speak();
-
-class user
