@@ -1,4 +1,4 @@
-// const person = {
+// const person = 
 //   name: "khushal",
 //   greet() {
 //     console.log(`hello, i'm ${this.name}`);
