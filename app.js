@@ -43,15 +43,3 @@
 // acc.deposite(100);
 // console.log(acc.getBalance());
 
-// class Animal {
-//   speak() {
-//     console.log("animal speak");
-//   }
-// }
-// class Dog extends Animal {
-//   speak() {
-//     console.log("dog barks");
-//   }
-// }
-// const pet = new Dog();
-// pet.speak();
